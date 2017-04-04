@@ -21,5 +21,5 @@ int main(int argc, char ** argv) {
 	printf("Estudiante_1: 201530267\n");
 	printf("Estudiante_2: 201527471\n");
 	printf("Total archivos: %d\n", cantidadArchivos);
-	printf("Total bytes: %lld", total);
+	printf("Total bytes: %lld\n", total);
 }
