@@ -29,7 +29,7 @@ int main(int argc, char ** argv) {
 		printf("Estudiante_1: 201530267\n");
 		printf("Estudiante_2: 201527471\n");
 		printf("Total archivos: %d\n", cantidadArchivos);
-		printf("Total bytes: %lld bytes", totalPadre + totalHijo);
+		printf("Total bytes: %lld\n", totalPadre + totalHijo);
 
 	} else {
 		close(fd[0]);
